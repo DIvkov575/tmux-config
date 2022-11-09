@@ -1,0 +1,3 @@
+[submodule "nvim"]
+	path = nvim
+	url = /Users/dima/.config/nvim
