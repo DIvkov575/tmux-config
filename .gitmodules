@@ -1,6 +1,0 @@
-[submodule "nvim"]
-	path = nvim
-	url = /Users/dima/.config/nvim
-[submodule ".vim/pack/thirdparty/start/vimoutliner"]
-	path = .vim/pack/thirdparty/start/vimoutliner
-	url = https://github.com/vimoutliner/vimoutliner.git
